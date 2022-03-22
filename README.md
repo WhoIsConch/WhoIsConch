@@ -7,11 +7,10 @@ I'm a Python developer that specialises in Discord bots.
 - 
 
 ### Stack
-**Python** - Skill Level: Intermediate/Advanced
+- **Python** - Skill Level: Intermediate/Advanced
   - **Discord.py/Pycord/Disnake** - Intermediate/Advanced
-
-**HTML + CSS** - Skill Level: Beginner
-**JavaScript** - Learning
+- **HTML + CSS** - Skill Level: Beginner
+- **JavaScript** - Learning
 
 ### Projects:
 - [Connect](https://connect.conchdev.com), a social media app with a unique Discord bot interface
