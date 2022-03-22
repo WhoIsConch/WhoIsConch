@@ -1,4 +1,4 @@
-### Hey, I'm UnsoughtConch!
+## Hey, I'm UnsoughtConch!
 
 I'm a Python developer that specialises in Discord bots. 
 - **15** years old
@@ -6,8 +6,12 @@ I'm a Python developer that specialises in Discord bots.
 - **United States of America**
 - 
 
-### Languages: 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="50">](https://python.org/)
+### Stack
+**Python** - Skill Level: Intermediate/Advanced
+  - **Discord.py/Pycord/Disnake** - Intermediate/Advanced
+
+**HTML + CSS** - Skill Level: Beginner
+**JavaScript** - Learning
 
 ### Projects:
 - [Connect](https://connect.conchdev.com), a social media app with a unique Discord bot interface
@@ -17,4 +21,4 @@ I'm a Python developer that specialises in Discord bots.
 
 ### Talk to Me!
 
-![Discord](
+- [Twitter](https://twitter.com/UnsoughtConch)
