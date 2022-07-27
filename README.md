@@ -4,7 +4,6 @@ I'm a Python developer that specialises in Discord bots.
 - **15** years old
 - **Male**
 - **United States of America**
-- 
 
 ### Stack
 - **Python** - Skill Level: Intermediate/Advanced
