@@ -10,6 +10,8 @@ I'm a Python developer that specialises in Discord bots.
   - **Discord.py/Pycord/Disnake** - Intermediate/Advanced
 - **HTML + CSS** - Skill Level: Beginner
 - **JavaScript** - Beginner
+- **Dart** - Learning
+  - **Flutter** - Learning
 
 ### Projects:
 - [Connect](https://connect.twisea.net), a social media app with a unique Discord bot interface
@@ -21,3 +23,4 @@ I'm a Python developer that specialises in Discord bots.
 
 - [Twitter](https://twitter.com/UnsoughtConch)
 - [Discord](https://discord.com/user/579041484796461076)
+  - Will __NOT__ accept random friend requests!
