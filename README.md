@@ -16,6 +16,7 @@ I'm a Python developer that specialises in Discord bots.
 ### Projects:
 - [Connect](https://connect.twisea.net), a social media app with a unique Discord bot interface
 - [Ticketeer](https://github.com/ConchDev/Ticketeer), a powerful open-sourced Discord bot for tickets, built using Pycord and Tortoise-ORM
+- [Discord Automod](https://github.com/ConchDev/discord-automod), a simple and effective Discord bot with regular moderation features, as well as anti-raid, anti-spam, and other automoderation features. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConchDev&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ConchDev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
