@@ -1,4 +1,4 @@
-## Hey, I'm UnsoughtConch!
+## Hey, I'm Conch!
 
 I'm a full stack developer that specializes in Python.
 - **16** years old
