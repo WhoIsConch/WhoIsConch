@@ -8,8 +8,8 @@ I'm a full stack developer that specializes in Python.
 ### Stack
 - **Python** - Intermediate/Advanced
   - **Discord.py/Pycord/Disnake** - Intermediate/Advanced
-- **HTML + CSS** - Skill Level: Beginner
-- **JavaScript** - Beginner
+- **HTML + CSS** - Beginner
+- **JavaScript** - Intermediate
 - **Dart** - Intermediate
   - **Flutter** - Intermediate
 
