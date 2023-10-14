@@ -16,7 +16,7 @@ I'm a full stack developer that specializes in Python.
 ### Projects:
 - [Connect](https://connect.twisea.net), a social media app with a unique Discord bot interface
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConchDev&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ConchDev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoIsConch&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhoIsConch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### Talk to Me!
 
