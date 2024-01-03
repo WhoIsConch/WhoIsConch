@@ -6,9 +6,9 @@ I'm a full stack developer that specializes in Python.
 - **United States of America**
 
 ### Stack
-- **Python** - Intermediate/Advanced
-  - **Discord.py/Pycord/Disnake** - Intermediate/Advanced
-- **HTML + CSS** - Beginner
+- **Python** - Advanced
+  - Especially some Discord API libraries, like **Pycord** 
+- **Rust** - Learning / Beginner
 - **JavaScript** - Intermediate
 - **Dart** - Intermediate
   - **Flutter** - Intermediate
