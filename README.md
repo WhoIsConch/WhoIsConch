@@ -1,7 +1,7 @@
 ## Hey, I'm Conch!
 
 I'm a full stack developer that specializes in Python.
-- **17** years old
+- **18** years old
 - **Male**
 - **United States of America**
 
